@@ -1,0 +1,18 @@
+\documentclass{article}
+
+\newcommand{\tab}{\hspace*{1.5em}}
+
+\title{Cool articles \\ \small{and other texts}}
+
+\author {
+    foresterre
+}
+
+\date{\today}
+
+
+\begin{document}
+    \section*{Scala}
+    https://shipilev.net/blog/2015/black-magic-method-dispatch/
+
+\end{document}
